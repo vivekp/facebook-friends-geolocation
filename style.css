@@ -1,0 +1,18 @@
+      body {
+  	font-family: 'Lucida Grande', Verdana, Arial, sans-serif;
+	font-size: 75%;
+	text-align: left;
+	border: 1px solid blue;	      
+     	padding-left: 10px; 
+      }
+      h1 a {
+        text-decoration: none;
+        color: #3b5998;
+      }
+      h1 a:hover {
+        text-decoration: underline;
+      }
+
+	.blue {
+		color: blue;
+	}
